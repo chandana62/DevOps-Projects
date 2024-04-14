@@ -2,19 +2,13 @@
 
 ![linux](https://imgur.com/VpPW8PM.png)
 
-***New to Linux? Below assignment covering all the required basics of Linux to be familiar for an DevOps engineer.***
+
 
 ![Linux](https://imgur.com/xedzuwy.png)
 
-## Skills
 
-Below skills are required to complete the deployment steps:
 
-Linux User Management, Permissions, Directory Structure, File Systems, File Management
 
-## Pre-Requisites
-
-Login to AWS cloud and create Linux based EC2 instance to complete the below assignment.
 
 ## Deployment
 
@@ -75,11 +69,3 @@ Login to AWS cloud and create Linux based EC2 instance to complete the below ass
    5. Delete /data directory
 11. Login to AWS and detach EBS volume to the EC2 Instance and delete the volume and then terminate EC2 instance.
 
-All done? still not confident? repeat the steps!
-
-**Happy Learning!**
-
-# Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
-
-#### Author by [DevCloud Ninjas](https://github.com/DevCloudNinjas)
